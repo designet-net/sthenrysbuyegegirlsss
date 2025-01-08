@@ -1,6 +1,8 @@
-# St. Henry's Buyego Girls School
+# St. Henry's Buyege Girls S.S
 
-Welcome to the official repository for St. Henry's Buyege Girls S.S! This repository hosts the code and resources for the school's website, which provides information about the institution, its values, programs, and activities. This project was developed in July 2014.
+Welcome to the official repository for St. Henry's Buyege Girls S.S! 
+This repository hosts the code and resources for this school's website, which provides information about the institution, its values, programs, and activities. 
+This is one of first projects; the first piece of this was produced in July 2014. Enjoy!
 
 Visit the link: https://designet-net.github.io/sthenrysbuyegegirlsss
 
@@ -41,7 +43,7 @@ This project aims to improve communication and accessibility for the school comm
 - HTML5: For structuring the website.
 - CSS3: For styling and layout.
 - JavaScript: For interactive elements.
-- GitHub Pages: For hosting the website.
+- Designnet: For hosting the website.
 
 ---
 
@@ -53,3 +55,6 @@ To set up the project locally:
    ```bash
    git clone https://github.com/designet-net/sthenrysbuyegegirlsss.git
 
+## Contact Information
+- designnet256@gmail.com
+- +256 704 720 555
